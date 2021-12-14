@@ -7,4 +7,4 @@
 
 ## Live Demo
 
-[Live Link](https://ademola.me)
+[Live Link](http://ademola.me)
